@@ -1,0 +1,32 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.13",
+    "heartbeatAt": "2022-07-13T09:30:48.320065",
+    "startedAt": "2022-07-13T09:30:46.610919",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--ip=127.0.0.1",
+        "--stdin=9003",
+        "--control=9001",
+        "--hb=9000",
+        "--Session.signature_scheme=\"hmac-sha256\"",
+        "--Session.key=b\"0a53f845-2499-4e80-a6b4-dc7f091c7fa9\"",
+        "--shell=9002",
+        "--transport=\"tcp\"",
+        "--iopub=9004",
+        "--f=/home/rfajri/.local/share/jupyter/runtime/kernel-v2-223WMfC5ATqlCKo.json"
+    ],
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/nicholas-dinicola/ML-pipeline-short-term-rental-prices-NYC.git",
+        "commit": "748bd3781530be90779305e75b18de24896f8848"
+    },
+    "email": "rfajri255@gmail.com",
+    "root": "/home/rfajri/Documents/udacity-ml-devops/build-ml-pipeline-for-short-term-rental-prices",
+    "host": "DESKTOP-M8L26OF",
+    "username": "rfajri",
+    "executable": "/home/rfajri/miniconda3/envs/nyc_airbnb_dev/bin/python"
+}
